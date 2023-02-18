@@ -6,7 +6,7 @@
   <div
     class="flex min-h-full items-center justify-center py-12 px-4 sm:px-6 lg:px-8"
   >
-    <div class="w-full max-w-md space-y-8 bg-elevation-1 p-8 rounded-3xl">
+    <div class="w-full max-w-md space-y-8 p-8 rounded-3xl dark:bg-gradient-radial-0 shadow-lg">
       <div>
         <Logo class="mx-auto h-28 w-auto" />
         <h2
